@@ -1,0 +1,7 @@
+id.txt
+secret.txt
+playlist.txt
+out*
+jpegs/
+.cache
+.vscode/
